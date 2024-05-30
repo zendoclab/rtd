@@ -49264,7 +49264,7 @@ g.pj(new A.AR(new A.adS(),s,!1,0.5625,i,i,i,i,i,h.x1.e,!0,!0,i,i,i,!1,i,f,new A.
 $S:0}
 A.adS.prototype={
 $1(a){var s=null
-return A.fj(A.a([A.ht(A.aXB(A.aGx(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.kD("https://zendoclab.blogspot.com/2024/05/trancer3-mindfulness-hypnagogic.html#main"))),1)],t.p),B.aG,B.a3,B.aV)},
+return A.fj(A.a([A.ht(A.aXB(A.aGx(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.kD("https://zendoclab.blogspot.com/2024/05/rtd-rate-of-thyroid-decline.html#main"))),1)],t.p),B.aG,B.a3,B.aV)},
 $S:253}
 A.adT.prototype={
 $1(a){var s=a.goo()
